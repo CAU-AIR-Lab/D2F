@@ -9,7 +9,7 @@ This program is designed to perform the feature selection for multi-label data s
 This software is a Matlab implementation of proposed method, highy specialized on problems of categorical data set classification. The original version of this program was written by Jaesung Lee.
 
 ### [Paper]
-Jaesung Lee, and Dae-Won Kim, [“Mutual Information-based Multi-label Feature Selection using Interaction Information”](https://www.sciencedirect.com/science/article/pii/S0957417414006423),
+Jaesung Lee, and Dae-Won Kim, [Mutual Information-based Multi-label Feature Selection using Interaction Information](https://www.sciencedirect.com/science/article/pii/S0957417414006423),
 Expert Systems with Applications, 42, 2015.
 
 ## License
